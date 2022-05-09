@@ -1,0 +1,28 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #293651;
+}
+h2 {
+  color:#00a78e;
+  font-weight: lighter;
+}
+h3 {
+  font-weight: lighter;
+}
+p {
+  color: #00a78e;
+}
+button {
+  background-color: #00a78e;
+  color: white;
+  border: 0px;
+  border-radius: 2px;
+  width: 180px;
+  height: 40px;
+}
+div{
+  padding-left: 225px;
+  
+}
